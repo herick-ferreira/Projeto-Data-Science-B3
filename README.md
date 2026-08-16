@@ -88,7 +88,7 @@ Compare a estratégia com o Ibovespa no `backtest.csv`: a estratégia entra comp
 
 O backtest é simplificado: não incorpora corretagem, emolumentos, spread, slippage, imposto ou limites de liquidez; todos reduzem retornos em produção. Também há risco de overfitting, revisões na fonte pública e **concept drift** (mudança de regimes de mercado). Próximas etapas: custos e execução realistas, walk-forward rolling com reentreino, MLflow, monitoramento de drift/PSI, dados de notícias via NLP, validação por setor e orquestração de MLOps.
 
-Deploy: [Streamlit Community Cloud — configurar URL](https://streamlit.io/cloud)
+Deploy: [Streamlit Community Cloud — configurar URL](https://projeto-data-science-b3.streamlit.app/)
 
 ## Perguntas prováveis de entrevista
 
